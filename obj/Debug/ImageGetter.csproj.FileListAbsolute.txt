@@ -1,0 +1,12 @@
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\bin\Debug\ImageGetter.exe.config
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\bin\Debug\ImageGetter.exe
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\bin\Debug\ImageGetter.pdb
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\obj\Debug\ImageGetter.csproj.GenerateResource.cache
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\obj\Debug\ImageGetter.csproj.CoreCompileInputs.cache
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\obj\Debug\ImageGetter.csproj.CopyComplete
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\obj\Debug\ImageGetter.exe
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\obj\Debug\ImageGetter.pdb
+C:\Users\kj\Desktop\新しいフォルダー (2)\ImageGetter\obj\Debug\ImageGetter.csprojAssemblyReference.cache
